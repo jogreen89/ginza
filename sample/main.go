@@ -1,4 +1,3 @@
-// fixing git user settings.
 package main
 
 import (
