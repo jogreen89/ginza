@@ -7,7 +7,11 @@ import (
 
 func main() {
     // Create a new list and put some numbers in it.
-    l  := list.New()
+    // Initialization.
+    l    := list.New()
+    list := list.New()
+
+    // Insertion.
     l.PushBack(1)
     l.PushBack(2)
     l.PushBack(3)
