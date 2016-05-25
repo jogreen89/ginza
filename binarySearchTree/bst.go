@@ -1,11 +1,7 @@
 package main
 
-import (
-        "fmt"
-        "../node"
-)
+import "fmt"
 
 func main() {
-    n := Node {5, nil, nil, nil}
-    fmt.Println(n.x)
+    fmt.Println("Node")
 }
