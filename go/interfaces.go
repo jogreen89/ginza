@@ -2,6 +2,7 @@
 //
 // A snippet from Effective Go at:
 // https://golang.org/doc/effective_go.html#interfaces_and_types
+package main
 
 type Sequence []int
 

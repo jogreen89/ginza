@@ -2,6 +2,8 @@
 //
 // A Go example of interfaces, from Ch. 7 D&K (2016).
 // 2016 (c) zubernetes
+package main
+
 type ByteCounter int
 
 func (c *ByteCounter) Write(p []byte) (int, error) {
