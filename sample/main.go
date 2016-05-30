@@ -2,6 +2,7 @@
 // 
 // A simple iterator written in Go.
 // 2016 (c) zubernetes
+// Just to test something
 package main
 
 import (
