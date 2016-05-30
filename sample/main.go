@@ -1,3 +1,7 @@
+// main.go
+// 
+// A simple iterator written in Go.
+// 2016 (c) zubernetes
 package main
 
 import (
