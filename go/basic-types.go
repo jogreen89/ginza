@@ -1,3 +1,7 @@
+// basic-types.go
+//
+// Working with Go types.
+// 2016 (c) zubernetes
 package main
 
 import (

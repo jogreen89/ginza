@@ -1,3 +1,7 @@
+// constants.go
+//
+// Example code using constants in Go
+// 2016 (c) zubernetes
 package main
 
 import "fmt"
