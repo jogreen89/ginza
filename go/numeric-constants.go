@@ -1,3 +1,7 @@
+// numeric-constants.go
+//
+// Numeric constants are high-precision values.
+// 2016 (c) zubernetes
 package main
 
 import "fmt"

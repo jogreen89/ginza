@@ -1,6 +1,7 @@
 // constants.go
 //
-// Example code using constants in Go
+// Constants in Go. Constants cannot be declared using
+// the ':=' syntax.
 // 2016 (c) zubernetes
 package main
 
