@@ -1,7 +1,6 @@
 // for.go
 // 
-// Example using the only looping construct in 
-// Go, 'for'. 
+// Example using the only looping construct in Go, 'for'
 package main
 
 import "fmt"
