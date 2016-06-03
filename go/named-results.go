@@ -1,3 +1,8 @@
+// named-results.go
+//
+// You can return values defined in the function 
+// signature.
+// 2016 (c) zubernetes
 package main
 
 import "fmt"

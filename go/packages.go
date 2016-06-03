@@ -1,3 +1,8 @@
+// packages.go
+//
+// Discussion of packages with import paths "fmt" 
+// and "math/rand". 
+// 2016 (c) zubernetes
 package main
 
 import (
@@ -6,7 +11,5 @@ import (
 )
 
 func main() {
-	// rand.Intn(..) Random number.
 	fmt.Println("My favorite number is", rand.Intn(10))
-	fmt.Println("This is another line", rand.Intn(15))
 }

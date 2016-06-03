@@ -1,3 +1,8 @@
+// functions-continued.go
+//
+// Omitting the type from two or more consecutive named 
+// function parameters. More function practice.
+// 2016 (c) zubernetes
 package main
 
 import "fmt"

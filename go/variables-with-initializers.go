@@ -1,3 +1,8 @@
+// variables-with-initializers.go
+//
+// var initialization does not have to include a 
+// type if 'var' is included.
+// 2016 (c) zubernetes
 package main
 
 import "fmt"

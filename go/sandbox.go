@@ -1,3 +1,7 @@
+// sandbox.go
+//
+// A small explanation of the Go Playground, golang.org's
+// servers, and using the "time" package.
 package main
 
 import (

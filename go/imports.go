@@ -1,3 +1,7 @@
+// imports.go
+//
+// Grouping imports into a factored import statement.
+// 2016 (c) zubernetes
 package main
 
 import (
