@@ -1,6 +1,6 @@
 // basic-types.go
 //
-// Working with Go types.
+// Displaying Go's basic types.
 // 2016 (c) zubernetes
 package main
 

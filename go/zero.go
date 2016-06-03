@@ -1,4 +1,11 @@
-// trying to fix commits.
+// zero.go
+//
+// zero value:
+// 
+// numeric types - 0
+// boolean type  - false
+// strings       - ""    (empty string)
+// 2016 (c) zubernetes
 package main
 
 import "fmt"

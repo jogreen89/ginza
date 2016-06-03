@@ -1,3 +1,8 @@
+// type-conversations.go
+// 
+// Program that demonstrates how to convert
+// values of one type v to another type T. T(v)
+// 2016 (c) zubernetes
 package main
 
 import (

@@ -1,3 +1,11 @@
+// short-variable-declarations.go
+//
+// Using the ':=' short assignment statement (only can be used'
+// inside functions. 
+//
+// Outside functions every statement begins with a keyword
+// (var, func, etc)
+// 2016 (c) zubernetes
 package main
 
 import "fmt"
