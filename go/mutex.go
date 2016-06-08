@@ -18,7 +18,7 @@ var ph = []string {
     "Kant", 
     "Spinoza", 
     "Marx", 
-    "Russell"
+    "Russell",
 }
 var fmt = log.New(os.Stdout, "", 0)
 var dining sync.WaitGroup

@@ -3,7 +3,6 @@
 // A Go implementation of a Binary Search algorithm
 // and the findmin() iterative search procedure.
 // (c) 2016 zubernetes
-
 package main
 
 import "fmt"
