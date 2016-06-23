@@ -28,3 +28,18 @@ var (
 	pRegisterClassExw = user32.NewProc("RegisterClassExW")
 	pTranslateMessage = user32.NewProc("TranslateMessage")
 )
+
+const (
+	cSW_SHOW        = 5
+	cSW_USE_DEFAULT = 0x80000000
+)
+
+const (
+	cWS_MAXIMIZE_BOX = 0x00010000
+	cWS_MINIMIZE_BOX = 0x00020000
+	cWS_THICKFRAME   = 0x00040000
+	cWS_SYSMENU      = 0x00080000
+	cWS_CAPTION      = 0x000C0000
+
+	cWS_OVERAPPENDWINDOW = 0x00CF0000
+)

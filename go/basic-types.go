@@ -5,13 +5,13 @@
 package main
 
 import (
-"fmt"
-"math/cmplx"
+    "fmt"
+    "math/cmplx"
 )
 
 var (
-    z      complex128 = cmplx.Sqrt(-5 + 12i)
-    ToBe   bool = false
+    z = cmplx.Sqrt(-5 + 12i)
+    ToBe  bool = false
     MaxInt uint64 = 1 << 64 - 1
 )
 
