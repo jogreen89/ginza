@@ -21,12 +21,12 @@ func printFile(path string, info os.FileInfo, err error) error {
 }
 
 func main() {
-    log.SetFlags(log.Lshortfile)
+    // log.SetFlags(log.Lshortfile)
     dir := os.Args[1:]
-
-    // if dir == nil {
-    //    log.Fatal("Did not provide a directory path to explore");
-    // }
+    
+    if len(os.Args) < 2 {
+        panic("Missing the expected number of parameters. Exiting...")
+    }
 
     err := filepath.Walk(dir, printFile)
 
