@@ -28,6 +28,6 @@ func dirents(dir string) []os.FileInfo {
 	return entries
 }
 
-func main() {
-	fmt.Println("Hello, World!")
-}
+//func main() {
+//	fmt.Println("Hello, World!")
+//}
